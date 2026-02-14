@@ -66,8 +66,7 @@ I enjoy building backend systems that emphasize clean architecture, concurrency 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JonnadaRaju&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JonnadaRaju&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=JonnadaRaju&theme=tokyonight" />
 </p>
 
 ---
