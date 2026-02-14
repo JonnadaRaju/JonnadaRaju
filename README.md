@@ -6,13 +6,21 @@
 
 ---
 
+## Technical Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+
+
 ## 🚀 Frameworks & Backend
 
-![Python](https://img.shields.io/badge/Python-Backend-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
-![Flask](https://img.shields.io/badge/Flask-Microframework-black)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-lightgrey)
-![Express.js](https://img.shields.io/badge/Express.js-Framework-black)
+![Python](https://img.shields.io/badge/Python)
+![FastAPI](https://img.shields.io/badge/FastAPI)
+![Flask](https://img.shields.io/badge/Flask)
+![Node.js](https://img.shields.io/badge/Node.js)
+![Express.js](https://img.shields.io/badge/Express.js)
 
 ## 🗄️ Databases & ORM
 
