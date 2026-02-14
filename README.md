@@ -10,6 +10,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Backend-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Flask](https://img.shields.io/badge/Flask-Microframework-black)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-lightgrey)
 ![Express.js](https://img.shields.io/badge/Express.js-Framework-black)
 
@@ -31,7 +32,7 @@
 ## ☁️ Deployment
 
 ![Render](https://img.shields.io/badge/Render-Deployment-indigo)
-![Vercel](https://img.shields.io/badge/Vercel-Deployment-black)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-indigo)
 
 ## 🛠️ Tools & Debugging
 
