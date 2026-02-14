@@ -63,6 +63,19 @@ I enjoy building backend systems that emphasize clean architecture, concurrency 
 
 ---
 
+## 📊 GitHub Stats
+
+![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnadaRaju&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnadaRaju&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JonnadaRaju&theme=radical&no-frame=true&margin-w=10)
+
+---
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonnadaraju6014)
