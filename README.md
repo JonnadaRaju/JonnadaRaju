@@ -71,7 +71,7 @@ I enjoy building backend systems that emphasize clean architecture, concurrency 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JonnadaRaju&theme=tokyonight&no-frame=true&margin-w=10" />
