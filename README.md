@@ -65,15 +65,18 @@ I enjoy building backend systems that emphasize clean architecture, concurrency 
 
 ## 📊 GitHub Stats
 
-![Raju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnadaRaju&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonnadaRaju&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonnadaRaju&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnadaRaju&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JonnadaRaju&theme=radical&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JonnadaRaju&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
 ---
 ## 🌐 Connect With Me
